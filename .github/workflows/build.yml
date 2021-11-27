@@ -17,3 +17,6 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: _build # The folder the action should deploy.
+          
+# Published to https://philippefaes.github.io/coaching-shop.eu/
+# and to CNAME: coaching-shop.eu

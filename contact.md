@@ -19,7 +19,7 @@ pager: False
 
   <div class="col-sm-4" style="text-align: center;">
     	
-	  ManSkirt.eu is part of the Randori Group:<br/>
+	  CoachingShop.eu is part of the Randori Group:<br/>
 	  Randori bv<br/>
 	  VAT BE 0667.586.266<br/>
 	  Aaigemstraat 123<br/>
