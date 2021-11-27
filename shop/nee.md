@@ -5,11 +5,6 @@ thumbnail: /images/shop/coaching/nee.jpg
 images:
     - /images/shop/coaching/nee.jpg
 pager: false
-teaser: Support your favorite online skirt shop!
-description: |
-    Black T-Shirt with a Triskel and the web address of your favorite skirt webshop.
-
-    That way, even your boys who are too shy to ask will know where to buy cool man skirts.
 price: 19,50 EUR - gratis shipping in België en Nederland.
 buybutton: |
     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -20,4 +15,8 @@ buybutton: |
     </form>
 ---
 
+Houten dobbelsteen met vijf keer "nee" en één keer "ja". Toon of geef dit aan je cliënt om hen eraan te herinneren dat om niet steeds automatisch "ja" te zeggen.
 
+Afmeting: 16mm
+
+Bevat set van 10 houten dobbelstenen (van 16mm), lasergegraveerd.

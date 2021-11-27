@@ -5,11 +5,6 @@ thumbnail: /images/shop/coaching/proberen.jpg
 images:
     - /images/shop/coaching/proberen.jpg
 pager: false
-teaser: Support your favorite online skirt shop!
-description: |
-    Black T-Shirt with a Triskel and the web address of your favorite skirt webshop.
-
-    That way, even your boys who are too shy to ask will know where to buy cool man skirts.
 price: 19,50 EUR - gratis shipping in België en Nederland.
 buybutton: |
     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -19,5 +14,9 @@ buybutton: |
     <img alt="" border="0" src="https://www.paypalobjects.com/nl_NL/i/scr/pixel.gif" width="1" height="1">
     </form>
 ---
+Omdat het woord "proberen" niet leidt naar succes, helpt deze dobbelsteen als herinnering om een ander woord te kiezen. Toon of geef dit aan je cliënt om hen daaraan te herinneren en zorgvuldig hun woorden te kiezen.
 
+Op de zes kanten van de dobbelsteen staan deze woorden: **proeven, testen, wagen, doen, checken, toetsen.**
+
+Bevat set van 10  houten dobbelstenen (van 16mm), lasergegraveerd.
 

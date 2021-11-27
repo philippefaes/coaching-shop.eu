@@ -2,7 +2,7 @@
 title: Shop
 tagline: Dice for Coaching and More
 layout: index_tn
-#banner: /images/sunset_sea.jpg
+banner: /images/banner.jpg
 order: title
 ---
 
