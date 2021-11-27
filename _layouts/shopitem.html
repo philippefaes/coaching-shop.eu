@@ -56,7 +56,12 @@
 		{% if this.description %}{{this.description | md}}{%endif%}
 		{{this.body}}
 		
-		<h3>Buy</h3>
+		<h3>Kopen</h3>
+    {% if this.price %}
+    <p>
+      {{this.price | md}}
+    </p>
+    {%endif%}
 		{{this.buybutton}}
 		
 		
@@ -92,9 +97,10 @@
 
   {% include 'pager.html' %}
 
-  {% include 'footer.html' %}
-
+  
 </div>
+
+{% include 'footer.html' %}
 
 {% endblock %}
 
