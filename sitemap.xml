@@ -1,67 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
     <url>
-        <loc>http://manskirt.eu/index.html</loc>
+        <loc>http://coaching-shop.eu/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/</loc>
+        <loc>http://coaching-shop.eu/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/contact.html</loc>
+        <loc>http://coaching-shop.eu/contact.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/who.html</loc>
+        <loc>http://coaching-shop.eu/404.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/blog/index.html</loc>
+        <loc>http://coaching-shop.eu/who.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/blog/</loc>
+        <loc>http://coaching-shop.eu/blog/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/coaching-set.html</loc>
+        <loc>http://coaching-shop.eu/blog/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/moeten.html</loc>
+        <loc>http://coaching-shop.eu/shop/coaching-set.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/proberen.html</loc>
+        <loc>http://coaching-shop.eu/shop/moeten.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/index.html</loc>
+        <loc>http://coaching-shop.eu/shop/proberen.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/</loc>
+        <loc>http://coaching-shop.eu/shop/index.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/maar.html</loc>
+        <loc>http://coaching-shop.eu/shop/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://manskirt.eu/shop/nee.html</loc>
+        <loc>http://coaching-shop.eu/shop/maar.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://coaching-shop.eu/shop/nee.html</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
