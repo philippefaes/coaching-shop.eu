@@ -36,7 +36,3 @@ https://gist.github.com/cobyism/4730490
 Upgrade bootstrap
 Change theme color. https://getbootstrap.com/docs/4.0/getting-started/theming/
 
-check forwarding van 
-* https://www.triskelmenskirts.eu/
-* https://www.menskirts.eu/
-
