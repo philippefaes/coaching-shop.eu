@@ -1,6 +1,6 @@
 ---
-title: Shop
-tagline: Dice for Coaching and More
+title: Coaching Shop
+tagline: Dice for Coaching and Teaching
 layout: index_tn
 banner: /images/banner.jpg
 order: title
